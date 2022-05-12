@@ -4,6 +4,7 @@ Case Study
 i. **Group Name** : Group Anis
 
 ii.**Group Member** 1.Nur Anis Mohd Affandi 1817100
+
                     2.Intan Najwa Mazlan 2017424
 
 iii.**Task** 
