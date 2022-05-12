@@ -8,9 +8,13 @@ ii.**Group Member** 1.Nur Anis Mohd Affandi 1817100
 
 iii.**Task** 
      Flow chart - Anis & Intan
+
      Array(map) - Anis
+
      Removing value - Anis
+
      Price class - Anis
+
      Local storage - Intan (cannot settle)
 
 iv. **Case Study Description** 
