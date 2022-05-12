@@ -10,11 +10,11 @@ iii.**Task**
 
      Flow chart - Anis & Intan
 
-     Array(map) - Anis
+     Array(map) - Anis & Intan
 
-     Removing value - Anis
+     Removing value - Anis & Intan
 
-     Price class - Anis
+     Price class - Anis & Intan
 
      Local storage - Intan (cannot settle)
 
